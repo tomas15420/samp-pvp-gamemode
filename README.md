@@ -68,4 +68,4 @@ plugins crashdetect mysql
 ### 5. Spuštění serveru
 Uložte všechny změny a spusťte server. 
 ## Licence 
-ento projekt je licencován pod **MIT licencí**. Znění licence naleznete v souboru [LICENSE](LICENSE).
+Tento projekt je licencován pod **MIT licencí**. Znění licence naleznete v souboru [LICENSE](LICENSE).
