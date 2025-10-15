@@ -1,0 +1,5 @@
+*.amx
+scriptfiles
+filterscripts
+server_log.txt
+logs/
